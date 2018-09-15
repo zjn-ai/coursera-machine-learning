@@ -1,1 +1,2 @@
-# coursera-machine-learning
+＃coursera-machine-learning
+teacher:Andrew NG
